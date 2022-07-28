@@ -1,5 +1,5 @@
 
-### Hi there 👋, Nitin Suryapally
+### Nitin Suryapally
 #### Web developer and UI/UX designer
 I'm Suryapally Nitin from india, Student at IIIT Surat. Persuing Computer science engineering. I am full stack developer work with MERN stack. I enjoy developing websites . I have also worked with wordpress, currently learning ui and ux design.
 
