@@ -5,7 +5,7 @@
 I'm Suryapally Nitin from india, Student at IIIT Surat. Persuing Computer science engineering. I am full stack developer work with MERN stack. I enjoy developing websites . I have also worked with wordpress, currently learning ui and ux design.
 
 ### Skills and Tools
-Git GitHub Visual Studio Code HTML5 CSS3  JavaScript jQuery Bootstrap JSON React Redux Nodejs NPM Express.js MySQL MongoDB Figma Ubuntu Windows
+Git, GitHub, Visual Studio Code, HTML5, CSS3,  JavaScript, jQuery, Bootstrap, JSON, React, Redux, Nodejs, NPM, Express.js, MySQL, MongoDB, Figma, Ubuntu, Windows
 
 
 - 🔭 I’m currently working on React Projects 
