@@ -1,20 +1,19 @@
 
-### Nitin Suryapally
-#### Web developer and UI/UX designer
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/0lfqHNZwWM1hOvJ9CX/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/nitin28/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/nitin2804/">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/>
+  </a>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=nitin-suryapally&style=flat-square&color=blue" alt=""/>
+  
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
-I'm Suryapally Nitin from India,currently pursuing Computer Science and Engineering at IIIT Surat. I am full stack developer, working with MERN stack. I enjoy developing websites . I have also worked with Wordpress, currently learning UI/UX design.
-
-### Skills and Tools
-Git, GitHub, Visual Studio Code, HTML5, CSS3,  JavaScript, jQuery, Bootstrap, JSON, React, Redux, Nodejs, NPM, Express.js, MySQL, MongoDB, Figma, Ubuntu, Windows
-
-
-- 🔭 I’m currently working on React Projects 
-- 🌱 I’m currently learning UI/UX 
-
-
-### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitin-suryapally&count_private=true&show_icons=true&theme=radical)
-
-### socials
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nitin-suryapally)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://https://www.linkedin.com/in/nitin-suryapally-176a5923b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nitin_suryapally2002/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nitin_2804)  
