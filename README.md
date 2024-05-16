@@ -26,8 +26,8 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m a student and contributing to frontend and backend for building web applications.
-- 🌱 Exploring MERN stack
+- 🔭 I’m a freelancer contributing to frontend and backend for building web applications.
+- 🌱 Exploring MERN stack and NEXT.js
 - ⚡ In my free time I solve problems on LeetCode and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Nitin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nitin28/)
 
